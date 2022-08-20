@@ -1,5 +1,6 @@
-# titanic_kaggle
+# Titanic_kaggle competition
 
-Jupyter Notebook for titanic competition in Kaggle (Machine Learning)
 
-I managed to obtain a Score: 0.76315 with this analysis. 
+Jupyter Notebook for the Titanic competition in Kaggle (Machine Learning)
+
+I managed to obtain a score of 0.76315 with this analysis.
